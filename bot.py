@@ -7,8 +7,8 @@ import psutil
 import os
 import re
 
-api_id = 123456  # Replace with your API ID
-api_hash = 'your_api_hash_here'  # Replace with your API Hash
+api_id = 21701625  # Replace with your API ID
+api_hash = '966e14c95b3a387d3b262ebf837fada3'  # Replace with your API Hash
 
 # Load interval from config file
 interval = 10  # default fallback
