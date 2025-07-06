@@ -4,8 +4,8 @@ import asyncio
 import time
 
 # Replace with your credentials
-api_id = 123456  # 🔁 Your API ID
-api_hash = 'your_api_hash_here'  # 🔁 Your API Hash
+api_id = 21701625  # 🔁 Your API ID
+api_hash = '966e14c95b3a387d3b262ebf837fada3'  # 🔁 Your API Hash
 
 interval = 10  # seconds between forwarding
 client = TelegramClient('session_name', api_id, api_hash)
